@@ -1,2 +1,2 @@
-# JavaTeacherAllen
-Java江老師的東西, 如果老師覺得不妥我會立即刪掉
+# JavaTeacherAllen江聖榮老師 at GjunTaipei
+240507職訓Java江聖榮老師的東西, 如果老師任何時候覺得不妥我都可以立即刪掉
